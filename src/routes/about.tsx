@@ -9,7 +9,7 @@ import profile from "@/assets/profile.jpg";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About — Fauzan Maulana" },
+      { title: "About — Mufid Kamil" },
       {
         name: "description",
         content:

@@ -21,7 +21,7 @@ export function SiteHeader() {
     >
       <div className="mx-auto max-w-[1600px] px-6 md:px-12 h-16 md:h-20 flex items-center justify-between">
         <Link to="/" className="font-display text-xl md:text-2xl tracking-tight">
-          Fauzan<span className="text-gold">.</span>
+          Mufid<span className="text-gold">.</span>
         </Link>
         <nav className="hidden md:flex items-center gap-10 text-xs uppercase tracking-[0.2em] text-muted-foreground">
           <Link to="/" activeOptions={{ exact: true }} activeProps={{ className: "text-foreground" }} className="underline-grow">

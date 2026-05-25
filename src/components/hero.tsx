@@ -11,7 +11,7 @@ export function Hero() {
       {/* Top meta line */}
       <div className="mx-auto max-w-[1600px] px-6 md:px-12 flex items-center justify-between font-mono text-[10px] md:text-xs uppercase tracking-[0.25em] text-muted-foreground">
         <span>Portfolio / 2026</span>
-        <span className="hidden md:inline">Jakarta — Worldwide</span>
+        <span className="hidden md:inline">Depok — Jawa Barat</span>
         <span>N° 001</span>
       </div>
 
@@ -27,7 +27,7 @@ export function Hero() {
             — Visual Creator
           </motion.p>
           <h1 className="font-display text-[15vw] md:text-[10.5vw] leading-[0.88] tracking-[-0.02em] text-balance">
-            {["Fauzan", "Maulana"].map((word, i) => (
+            {["Mufid", "Kamil"].map((word, i) => (
               <motion.span
                 key={word}
                 initial={{ opacity: 0, y: 80 }}
