@@ -13,12 +13,12 @@ export const Route = createFileRoute("/about")({
       {
         name: "description",
         content:
-          "About Fauzan Maulana — visual creator working across photography, design, video and 3D.",
+          "About Mufid Kamil — visual creator working across photography, design, video and 3D.",
       },
-      { property: "og:title", content: "About — Fauzan Maulana" },
+      { property: "og:title", content: "About — Mufid Kamil" },
       {
         property: "og:description",
-        content: "Story, tools and practice of Fauzan Maulana.",
+        content: "Story, tools and practice of Mufid Kamil.",
       },
     ],
   }),
