@@ -2,11 +2,11 @@ import { motion } from "motion/react";
 import { ArrowUpRight } from "lucide-react";
 
 const channels = [
-  { label: "Email", value: "hello@fauzan.studio", href: "mailto:hello@fauzan.studio" },
-  { label: "Instagram", value: "@fauzan.maulana", href: "https://instagram.com" },
+  { label: "Email", value: "mufidkamil15@gmail.com", href: "mailto:hello@fauzan.studio" },
+  { label: "Instagram", value: "@mufidkamil", href: "https://instagram.com" },
   { label: "TikTok", value: "@fauzan.mln", href: "https://tiktok.com" },
-  { label: "WhatsApp", value: "+62 812 0000 0000", href: "https://wa.me/6281200000000" },
-  { label: "Behance", value: "behance.net/fauzan", href: "https://behance.net" },
+  { label: "WhatsApp", value: "+62 8571 115 1240", href: "https://wa.me/6285711151240" },
+  { label: "Behance", value: "behance.net/mufid", href: "https://behance.net" },
 ];
 
 export function ContactSection() {
